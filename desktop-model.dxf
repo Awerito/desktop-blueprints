@@ -1,0 +1,5868 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$HANDSEED
+  5
+      E5
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+1
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VPORT
+  5
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 12
+1000
+ 22
+350
+ 40
+770
+ 41
+2.85714285714
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+3
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LTYPE
+  5
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  0
+LTYPE
+  5
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+6
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+LAYER
+  5
+7
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+390
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+8
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+  3
+txt
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+A
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+B
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+C
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+D
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+E
+100
+AcDbSymbolTable
+ 70
+     0
+100
+AcDbDimStyleTable
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+F
+100
+AcDbSymbolTable
+ 70
+27
+  0
+BLOCK_RECORD
+  5
+10
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+  0
+BLOCK_RECORD
+  5
+11
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+  0
+BLOCK_RECORD
+  5
+12
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop
+  0
+BLOCK_RECORD
+  5
+13
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Top
+  0
+BLOCK_RECORD
+  5
+14
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Top1
+  0
+BLOCK_RECORD
+  5
+15
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Back
+  0
+BLOCK_RECORD
+  5
+16
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Back (1)
+  0
+BLOCK_RECORD
+  5
+17
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [1]
+  0
+BLOCK_RECORD
+  5
+18
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [1]1
+  0
+BLOCK_RECORD
+  5
+19
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [2]
+  0
+BLOCK_RECORD
+  5
+1A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [2]1
+  0
+BLOCK_RECORD
+  5
+1B
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [3]
+  0
+BLOCK_RECORD
+  5
+1C
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [3]1
+  0
+BLOCK_RECORD
+  5
+1D
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [1]
+  0
+BLOCK_RECORD
+  5
+1E
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [1]1
+  0
+BLOCK_RECORD
+  5
+1F
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [2]
+  0
+BLOCK_RECORD
+  5
+20
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [2]1
+  0
+BLOCK_RECORD
+  5
+21
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [3]
+  0
+BLOCK_RECORD
+  5
+22
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [3]1
+  0
+BLOCK_RECORD
+  5
+23
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [4]
+  0
+BLOCK_RECORD
+  5
+24
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Vertical Division [4] (1)
+  0
+BLOCK_RECORD
+  5
+25
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [4]
+  0
+BLOCK_RECORD
+  5
+26
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [4]1
+  0
+BLOCK_RECORD
+  5
+27
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [5]
+  0
+BLOCK_RECORD
+  5
+28
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Fixed Shelve [5]1
+  0
+BLOCK_RECORD
+  5
+29
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Mobile Shelve [1]
+  0
+BLOCK_RECORD
+  5
+2A
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+Desktop.Mobile Shelve [1]1
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+2B
+100
+AcDbEntity
+100
+AcDbBlockBegin
+  2
+*Model_Space
+  0
+ENDBLK
+  5
+2C
+100
+AcDbEntity
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2D
+100
+AcDbEntity
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+  0
+ENDBLK
+  5
+2E
+100
+AcDbEntity
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+2F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+Desktop
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+30
+100
+AcDbEntity
+  8
+Desktop.Top
+100
+AcDbBlockReference
+  2
+Desktop.Top
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+31
+100
+AcDbEntity
+  8
+Desktop.Back
+100
+AcDbBlockReference
+  2
+Desktop.Back
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+32
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [1]
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+33
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [2]
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [2]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+34
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [3]
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [3]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+35
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [1]
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+36
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [2]
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [2]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+37
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [3]
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [3]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+38
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [4]
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [4]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+39
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [4]
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [4]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+3A
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [5]
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [5]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+INSERT
+  5
+3B
+100
+AcDbEntity
+  8
+Desktop.Mobile Shelve [1]
+100
+AcDbBlockReference
+  2
+Desktop.Mobile Shelve [1]
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+3C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+3D
+100
+AcDbEntity
+  8
+Desktop.Top
+100
+AcDbBlockBegin
+  2
+Desktop.Top
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+3E
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Top1
+ 10
+2000
+ 20
+0
+ 30
+700
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+3F
+100
+AcDbEntity
+  8
+Desktop.Top
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+40
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Top1
+ 70
+     0
+ 10
+2000
+ 20
+0
+ 30
+700
+  0
+3DFACE
+  5
+41
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+2000
+ 20
+0
+ 30
+700
+ 11
+2000
+ 21
+700
+ 31
+700
+ 12
+0
+ 22
+700
+ 32
+700
+ 13
+0
+ 23
+0
+ 33
+700
+ 70
+0
+  0
+3DFACE
+  5
+42
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+2000
+ 20
+0
+ 30
+682
+ 11
+2000
+ 21
+700
+ 31
+682
+ 12
+0
+ 22
+700
+ 32
+682
+ 13
+0
+ 23
+0
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+43
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+2000
+ 20
+0
+ 30
+682
+ 11
+2000
+ 21
+700
+ 31
+682
+ 12
+2000
+ 22
+700
+ 32
+700
+ 13
+2000
+ 23
+0
+ 33
+700
+ 70
+0
+  0
+3DFACE
+  5
+44
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+2000
+ 20
+700
+ 30
+682
+ 11
+0
+ 21
+700
+ 31
+682
+ 12
+0
+ 22
+700
+ 32
+700
+ 13
+2000
+ 23
+700
+ 33
+700
+ 70
+0
+  0
+3DFACE
+  5
+45
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+0
+ 20
+700
+ 30
+682
+ 11
+0
+ 21
+0
+ 31
+682
+ 12
+0
+ 22
+0
+ 32
+700
+ 13
+0
+ 23
+700
+ 33
+700
+ 70
+0
+  0
+3DFACE
+  5
+46
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+0
+ 20
+0
+ 30
+682
+ 11
+2000
+ 21
+0
+ 31
+682
+ 12
+2000
+ 22
+0
+ 32
+700
+ 13
+0
+ 23
+0
+ 33
+700
+ 70
+0
+  0
+ENDBLK
+  5
+47
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+48
+100
+AcDbEntity
+  8
+Desktop.Back
+100
+AcDbBlockBegin
+  2
+Desktop.Back
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+49
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Back (1)
+ 10
+1549
+ 20
+700
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+4A
+100
+AcDbEntity
+  8
+Desktop.Back
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+4B
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Back (1)
+ 70
+     0
+ 10
+1549
+ 20
+700
+ 30
+0
+  0
+3DFACE
+  5
+4C
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+700
+ 30
+0
+ 11
+1985
+ 21
+700
+ 31
+682
+ 12
+1985
+ 22
+700
+ 32
+0
+ 13
+1549
+ 23
+700
+ 33
+0
+ 70
+9
+  0
+3DFACE
+  5
+4D
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+700
+ 30
+350
+ 11
+1985
+ 21
+700
+ 31
+682
+ 12
+1549
+ 22
+700
+ 32
+0
+ 13
+1549
+ 23
+700
+ 33
+350
+ 70
+11
+  0
+3DFACE
+  5
+4E
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+700
+ 30
+350
+ 11
+1985
+ 21
+700
+ 31
+682
+ 12
+1549
+ 22
+700
+ 32
+350
+ 13
+451
+ 23
+700
+ 33
+350
+ 70
+11
+  0
+3DFACE
+  5
+4F
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+700
+ 30
+682
+ 11
+451
+ 21
+700
+ 31
+350
+ 12
+15
+ 22
+700
+ 32
+0
+ 13
+15
+ 23
+700
+ 33
+682
+ 70
+11
+  0
+3DFACE
+  5
+50
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+700
+ 30
+682
+ 11
+1985
+ 21
+700
+ 31
+682
+ 12
+451
+ 22
+700
+ 32
+350
+ 13
+15
+ 23
+700
+ 33
+682
+ 70
+14
+  0
+3DFACE
+  5
+51
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+700
+ 30
+0
+ 11
+451
+ 21
+700
+ 31
+350
+ 12
+451
+ 22
+700
+ 32
+0
+ 13
+15
+ 23
+700
+ 33
+0
+ 70
+9
+  0
+3DFACE
+  5
+52
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+682
+ 30
+0
+ 11
+15
+ 21
+682
+ 31
+682
+ 12
+15
+ 22
+682
+ 32
+0
+ 13
+451
+ 23
+682
+ 33
+0
+ 70
+9
+  0
+3DFACE
+  5
+53
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+682
+ 30
+350
+ 11
+15
+ 21
+682
+ 31
+682
+ 12
+451
+ 22
+682
+ 32
+0
+ 13
+451
+ 23
+682
+ 33
+350
+ 70
+11
+  0
+3DFACE
+  5
+54
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+682
+ 30
+350
+ 11
+15
+ 21
+682
+ 31
+682
+ 12
+451
+ 22
+682
+ 32
+350
+ 13
+1549
+ 23
+682
+ 33
+350
+ 70
+11
+  0
+3DFACE
+  5
+55
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1985
+ 20
+682
+ 30
+682
+ 11
+1549
+ 21
+682
+ 31
+350
+ 12
+1985
+ 22
+682
+ 32
+0
+ 13
+1985
+ 23
+682
+ 33
+682
+ 70
+11
+  0
+3DFACE
+  5
+56
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1985
+ 20
+682
+ 30
+682
+ 11
+15
+ 21
+682
+ 31
+682
+ 12
+1549
+ 22
+682
+ 32
+350
+ 13
+1985
+ 23
+682
+ 33
+682
+ 70
+14
+  0
+3DFACE
+  5
+57
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1985
+ 20
+682
+ 30
+0
+ 11
+1549
+ 21
+682
+ 31
+350
+ 12
+1549
+ 22
+682
+ 32
+0
+ 13
+1985
+ 23
+682
+ 33
+0
+ 70
+9
+  0
+3DFACE
+  5
+58
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+682
+ 30
+0
+ 11
+15
+ 21
+682
+ 31
+682
+ 12
+15
+ 22
+700
+ 32
+682
+ 13
+15
+ 23
+700
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+59
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+700
+ 30
+0
+ 11
+15
+ 21
+700
+ 31
+0
+ 12
+15
+ 22
+682
+ 32
+0
+ 13
+451
+ 23
+682
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+5A
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+700
+ 30
+350
+ 11
+451
+ 21
+700
+ 31
+0
+ 12
+451
+ 22
+682
+ 32
+0
+ 13
+451
+ 23
+682
+ 33
+350
+ 70
+0
+  0
+3DFACE
+  5
+5B
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+682
+ 30
+350
+ 11
+1549
+ 21
+682
+ 31
+350
+ 12
+1549
+ 22
+700
+ 32
+350
+ 13
+451
+ 23
+700
+ 33
+350
+ 70
+0
+  0
+3DFACE
+  5
+5C
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+682
+ 30
+350
+ 11
+1549
+ 21
+682
+ 31
+0
+ 12
+1549
+ 22
+700
+ 32
+0
+ 13
+1549
+ 23
+700
+ 33
+350
+ 70
+0
+  0
+3DFACE
+  5
+5D
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1985
+ 20
+682
+ 30
+0
+ 11
+1985
+ 21
+700
+ 31
+0
+ 12
+1549
+ 22
+700
+ 32
+0
+ 13
+1549
+ 23
+682
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+5E
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1985
+ 20
+682
+ 30
+682
+ 11
+1985
+ 21
+682
+ 31
+0
+ 12
+1985
+ 22
+700
+ 32
+0
+ 13
+1985
+ 23
+700
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+5F
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+682
+ 30
+682
+ 11
+1985
+ 21
+682
+ 31
+682
+ 12
+1985
+ 22
+700
+ 32
+682
+ 13
+15
+ 23
+700
+ 33
+682
+ 70
+0
+  0
+ENDBLK
+  5
+60
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+61
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [1]
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+62
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [1]1
+ 10
+15
+ 20
+15
+ 30
+682
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+63
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+64
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [1]1
+ 70
+     0
+ 10
+15
+ 20
+15
+ 30
+682
+  0
+3DFACE
+  5
+65
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+15
+ 30
+682
+ 11
+15
+ 21
+15
+ 31
+0
+ 12
+15
+ 22
+682
+ 32
+0
+ 13
+15
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+66
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+15
+ 30
+682
+ 11
+33
+ 21
+15
+ 31
+0
+ 12
+33
+ 22
+682
+ 32
+0
+ 13
+33
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+67
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+15
+ 30
+682
+ 11
+33
+ 21
+15
+ 31
+682
+ 12
+33
+ 22
+15
+ 32
+0
+ 13
+15
+ 23
+15
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+68
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+15
+ 30
+0
+ 11
+33
+ 21
+15
+ 31
+0
+ 12
+33
+ 22
+682
+ 32
+0
+ 13
+15
+ 23
+682
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+69
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+682
+ 30
+0
+ 11
+33
+ 21
+682
+ 31
+0
+ 12
+33
+ 22
+682
+ 32
+682
+ 13
+15
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+6A
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+15
+ 20
+682
+ 30
+682
+ 11
+33
+ 21
+682
+ 31
+682
+ 12
+33
+ 22
+15
+ 32
+682
+ 13
+15
+ 23
+15
+ 33
+682
+ 70
+0
+  0
+ENDBLK
+  5
+6B
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+6C
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [2]
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [2]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+6D
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [2]1
+ 10
+1967
+ 20
+15
+ 30
+682
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+6E
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [2]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+6F
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [2]1
+ 70
+     0
+ 10
+1967
+ 20
+15
+ 30
+682
+  0
+3DFACE
+  5
+70
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+15
+ 30
+682
+ 11
+1967
+ 21
+15
+ 31
+0
+ 12
+1967
+ 22
+682
+ 32
+0
+ 13
+1967
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+71
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1985
+ 20
+15
+ 30
+682
+ 11
+1985
+ 21
+15
+ 31
+0
+ 12
+1985
+ 22
+682
+ 32
+0
+ 13
+1985
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+72
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+15
+ 30
+682
+ 11
+1985
+ 21
+15
+ 31
+682
+ 12
+1985
+ 22
+15
+ 32
+0
+ 13
+1967
+ 23
+15
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+73
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+15
+ 30
+0
+ 11
+1985
+ 21
+15
+ 31
+0
+ 12
+1985
+ 22
+682
+ 32
+0
+ 13
+1967
+ 23
+682
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+74
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+682
+ 30
+0
+ 11
+1985
+ 21
+682
+ 31
+0
+ 12
+1985
+ 22
+682
+ 32
+682
+ 13
+1967
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+75
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+682
+ 30
+682
+ 11
+1985
+ 21
+682
+ 31
+682
+ 12
+1985
+ 22
+15
+ 32
+682
+ 13
+1967
+ 23
+15
+ 33
+682
+ 70
+0
+  0
+ENDBLK
+  5
+76
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+77
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [3]
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [3]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+78
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [3]1
+ 10
+1549
+ 20
+15
+ 30
+682
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+79
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [3]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+7A
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [3]1
+ 70
+     0
+ 10
+1549
+ 20
+15
+ 30
+682
+  0
+3DFACE
+  5
+7B
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+15
+ 30
+682
+ 11
+1549
+ 21
+15
+ 31
+0
+ 12
+1549
+ 22
+682
+ 32
+0
+ 13
+1549
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+7C
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+682
+ 11
+1567
+ 21
+15
+ 31
+0
+ 12
+1567
+ 22
+682
+ 32
+0
+ 13
+1567
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+7D
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+15
+ 30
+682
+ 11
+1567
+ 21
+15
+ 31
+682
+ 12
+1567
+ 22
+15
+ 32
+0
+ 13
+1549
+ 23
+15
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+7E
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+15
+ 30
+0
+ 11
+1567
+ 21
+15
+ 31
+0
+ 12
+1567
+ 22
+682
+ 32
+0
+ 13
+1549
+ 23
+682
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+7F
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+682
+ 30
+0
+ 11
+1567
+ 21
+682
+ 31
+0
+ 12
+1567
+ 22
+682
+ 32
+682
+ 13
+1549
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+80
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+682
+ 30
+682
+ 11
+1567
+ 21
+682
+ 31
+682
+ 12
+1567
+ 22
+15
+ 32
+682
+ 13
+1549
+ 23
+15
+ 33
+682
+ 70
+0
+  0
+ENDBLK
+  5
+81
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+82
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [1]
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+83
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [1]1
+ 10
+1567
+ 20
+15
+ 30
+157
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+84
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+85
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [1]1
+ 70
+     0
+ 10
+1567
+ 20
+15
+ 30
+157
+  0
+3DFACE
+  5
+86
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+157
+ 11
+1967
+ 21
+15
+ 31
+157
+ 12
+1967
+ 22
+682
+ 32
+157
+ 13
+1567
+ 23
+682
+ 33
+157
+ 70
+0
+  0
+3DFACE
+  5
+87
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+175
+ 11
+1967
+ 21
+15
+ 31
+175
+ 12
+1967
+ 22
+682
+ 32
+175
+ 13
+1567
+ 23
+682
+ 33
+175
+ 70
+0
+  0
+3DFACE
+  5
+88
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+157
+ 11
+1567
+ 21
+15
+ 31
+175
+ 12
+1967
+ 22
+15
+ 32
+175
+ 13
+1967
+ 23
+15
+ 33
+157
+ 70
+0
+  0
+3DFACE
+  5
+89
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+15
+ 30
+157
+ 11
+1967
+ 21
+15
+ 31
+175
+ 12
+1967
+ 22
+682
+ 32
+175
+ 13
+1967
+ 23
+682
+ 33
+157
+ 70
+0
+  0
+3DFACE
+  5
+8A
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+682
+ 30
+157
+ 11
+1967
+ 21
+682
+ 31
+175
+ 12
+1567
+ 22
+682
+ 32
+175
+ 13
+1567
+ 23
+682
+ 33
+157
+ 70
+0
+  0
+3DFACE
+  5
+8B
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+682
+ 30
+157
+ 11
+1567
+ 21
+682
+ 31
+175
+ 12
+1567
+ 22
+15
+ 32
+175
+ 13
+1567
+ 23
+15
+ 33
+157
+ 70
+0
+  0
+ENDBLK
+  5
+8C
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+8D
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [2]
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [2]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+8E
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [2]1
+ 10
+1567
+ 20
+15
+ 30
+332
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+8F
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [2]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+90
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [2]1
+ 70
+     0
+ 10
+1567
+ 20
+15
+ 30
+332
+  0
+3DFACE
+  5
+91
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+332
+ 11
+1967
+ 21
+15
+ 31
+332
+ 12
+1967
+ 22
+682
+ 32
+332
+ 13
+1567
+ 23
+682
+ 33
+332
+ 70
+0
+  0
+3DFACE
+  5
+92
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+350
+ 11
+1967
+ 21
+15
+ 31
+350
+ 12
+1967
+ 22
+682
+ 32
+350
+ 13
+1567
+ 23
+682
+ 33
+350
+ 70
+0
+  0
+3DFACE
+  5
+93
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+332
+ 11
+1567
+ 21
+15
+ 31
+350
+ 12
+1967
+ 22
+15
+ 32
+350
+ 13
+1967
+ 23
+15
+ 33
+332
+ 70
+0
+  0
+3DFACE
+  5
+94
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+15
+ 30
+332
+ 11
+1967
+ 21
+15
+ 31
+350
+ 12
+1967
+ 22
+682
+ 32
+350
+ 13
+1967
+ 23
+682
+ 33
+332
+ 70
+0
+  0
+3DFACE
+  5
+95
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+682
+ 30
+332
+ 11
+1967
+ 21
+682
+ 31
+350
+ 12
+1567
+ 22
+682
+ 32
+350
+ 13
+1567
+ 23
+682
+ 33
+332
+ 70
+0
+  0
+3DFACE
+  5
+96
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+682
+ 30
+332
+ 11
+1567
+ 21
+682
+ 31
+350
+ 12
+1567
+ 22
+15
+ 32
+350
+ 13
+1567
+ 23
+15
+ 33
+332
+ 70
+0
+  0
+ENDBLK
+  5
+97
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+98
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [3]
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [3]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+99
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [3]1
+ 10
+1567
+ 20
+15
+ 30
+507
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+9A
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [3]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+9B
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [3]1
+ 70
+     0
+ 10
+1567
+ 20
+15
+ 30
+507
+  0
+3DFACE
+  5
+9C
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+507
+ 11
+1967
+ 21
+15
+ 31
+507
+ 12
+1967
+ 22
+682
+ 32
+507
+ 13
+1567
+ 23
+682
+ 33
+507
+ 70
+0
+  0
+3DFACE
+  5
+9D
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+525
+ 11
+1967
+ 21
+15
+ 31
+525
+ 12
+1967
+ 22
+682
+ 32
+525
+ 13
+1567
+ 23
+682
+ 33
+525
+ 70
+0
+  0
+3DFACE
+  5
+9E
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+15
+ 30
+507
+ 11
+1567
+ 21
+15
+ 31
+525
+ 12
+1967
+ 22
+15
+ 32
+525
+ 13
+1967
+ 23
+15
+ 33
+507
+ 70
+0
+  0
+3DFACE
+  5
+9F
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+15
+ 30
+507
+ 11
+1967
+ 21
+15
+ 31
+525
+ 12
+1967
+ 22
+682
+ 32
+525
+ 13
+1967
+ 23
+682
+ 33
+507
+ 70
+0
+  0
+3DFACE
+  5
+A0
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1967
+ 20
+682
+ 30
+507
+ 11
+1967
+ 21
+682
+ 31
+525
+ 12
+1567
+ 22
+682
+ 32
+525
+ 13
+1567
+ 23
+682
+ 33
+507
+ 70
+0
+  0
+3DFACE
+  5
+A1
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1567
+ 20
+682
+ 30
+507
+ 11
+1567
+ 21
+682
+ 31
+525
+ 12
+1567
+ 22
+15
+ 32
+525
+ 13
+1567
+ 23
+15
+ 33
+507
+ 70
+0
+  0
+ENDBLK
+  5
+A2
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A3
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [4]
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [4]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+A4
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Vertical Division [4] (1)
+ 10
+433
+ 20
+200
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+A5
+100
+AcDbEntity
+  8
+Desktop.Vertical Division [4]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A6
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Vertical Division [4] (1)
+ 70
+     0
+ 10
+433
+ 20
+200
+ 30
+0
+  0
+3DFACE
+  5
+A7
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+0
+ 11
+433
+ 21
+682
+ 31
+682
+ 12
+433
+ 22
+682
+ 32
+0
+ 13
+433
+ 23
+200
+ 33
+0
+ 70
+9
+  0
+3DFACE
+  5
+A8
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+540
+ 11
+433
+ 21
+682
+ 31
+682
+ 12
+433
+ 22
+200
+ 32
+0
+ 13
+433
+ 23
+200
+ 33
+540
+ 70
+11
+  0
+3DFACE
+  5
+A9
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+15
+ 30
+540
+ 11
+433
+ 21
+682
+ 31
+682
+ 12
+433
+ 22
+200
+ 32
+540
+ 13
+433
+ 23
+15
+ 33
+540
+ 70
+11
+  0
+3DFACE
+  5
+AA
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+15
+ 30
+682
+ 11
+433
+ 21
+682
+ 31
+682
+ 12
+433
+ 22
+15
+ 32
+540
+ 13
+433
+ 23
+15
+ 33
+682
+ 70
+10
+  0
+3DFACE
+  5
+AB
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+200
+ 30
+540
+ 11
+451
+ 21
+15
+ 31
+682
+ 12
+451
+ 22
+15
+ 32
+540
+ 13
+451
+ 23
+200
+ 33
+540
+ 70
+9
+  0
+3DFACE
+  5
+AC
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+682
+ 30
+682
+ 11
+451
+ 21
+200
+ 31
+540
+ 12
+451
+ 22
+682
+ 32
+0
+ 13
+451
+ 23
+682
+ 33
+682
+ 70
+11
+  0
+3DFACE
+  5
+AD
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+682
+ 30
+682
+ 11
+451
+ 21
+15
+ 31
+682
+ 12
+451
+ 22
+200
+ 32
+540
+ 13
+451
+ 23
+682
+ 33
+682
+ 70
+14
+  0
+3DFACE
+  5
+AE
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+682
+ 30
+0
+ 11
+451
+ 21
+200
+ 31
+540
+ 12
+451
+ 22
+200
+ 32
+0
+ 13
+451
+ 23
+682
+ 33
+0
+ 70
+9
+  0
+3DFACE
+  5
+AF
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+15
+ 30
+682
+ 11
+451
+ 21
+15
+ 31
+682
+ 12
+451
+ 22
+15
+ 32
+540
+ 13
+433
+ 23
+15
+ 33
+540
+ 70
+0
+  0
+3DFACE
+  5
+B0
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+540
+ 11
+433
+ 21
+15
+ 31
+540
+ 12
+451
+ 22
+15
+ 32
+540
+ 13
+451
+ 23
+200
+ 33
+540
+ 70
+0
+  0
+3DFACE
+  5
+B1
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+200
+ 30
+540
+ 11
+451
+ 21
+200
+ 31
+0
+ 12
+433
+ 22
+200
+ 32
+0
+ 13
+433
+ 23
+200
+ 33
+540
+ 70
+0
+  0
+3DFACE
+  5
+B2
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+200
+ 30
+0
+ 11
+451
+ 21
+682
+ 31
+0
+ 12
+433
+ 22
+682
+ 32
+0
+ 13
+433
+ 23
+200
+ 33
+0
+ 70
+0
+  0
+3DFACE
+  5
+B3
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+682
+ 30
+0
+ 11
+451
+ 21
+682
+ 31
+0
+ 12
+451
+ 22
+682
+ 32
+682
+ 13
+433
+ 23
+682
+ 33
+682
+ 70
+0
+  0
+3DFACE
+  5
+B4
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+682
+ 30
+682
+ 11
+451
+ 21
+682
+ 31
+682
+ 12
+451
+ 22
+15
+ 32
+682
+ 13
+433
+ 23
+15
+ 33
+682
+ 70
+0
+  0
+ENDBLK
+  5
+B5
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+B6
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [4]
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [4]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+B7
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [4]1
+ 10
+248
+ 20
+15
+ 30
+215.333333333
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+B8
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [4]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+B9
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [4]1
+ 70
+     0
+ 10
+248
+ 20
+15
+ 30
+215.333333333
+  0
+3DFACE
+  5
+BA
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+248
+ 20
+15
+ 30
+215.333333333
+ 11
+433
+ 21
+682
+ 31
+215.333333333
+ 12
+433
+ 22
+200
+ 32
+215.333333333
+ 13
+248
+ 23
+15
+ 33
+215.333333333
+ 70
+9
+  0
+3DFACE
+  5
+BB
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+15
+ 30
+215.333333333
+ 11
+433
+ 21
+682
+ 31
+215.333333333
+ 12
+248
+ 22
+15
+ 32
+215.333333333
+ 13
+33
+ 23
+15
+ 33
+215.333333333
+ 70
+11
+  0
+3DFACE
+  5
+BC
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+682
+ 30
+215.333333333
+ 11
+433
+ 21
+682
+ 31
+215.333333333
+ 12
+33
+ 22
+15
+ 32
+215.333333333
+ 13
+33
+ 23
+682
+ 33
+215.333333333
+ 70
+10
+  0
+3DFACE
+  5
+BD
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+248
+ 20
+15
+ 30
+233.333333333
+ 11
+33
+ 21
+682
+ 31
+233.333333333
+ 12
+33
+ 22
+15
+ 32
+233.333333333
+ 13
+248
+ 23
+15
+ 33
+233.333333333
+ 70
+9
+  0
+3DFACE
+  5
+BE
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+233.333333333
+ 11
+33
+ 21
+682
+ 31
+233.333333333
+ 12
+248
+ 22
+15
+ 32
+233.333333333
+ 13
+433
+ 23
+200
+ 33
+233.333333333
+ 70
+11
+  0
+3DFACE
+  5
+BF
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+682
+ 30
+233.333333333
+ 11
+33
+ 21
+682
+ 31
+233.333333333
+ 12
+433
+ 22
+200
+ 32
+233.333333333
+ 13
+433
+ 23
+682
+ 33
+233.333333333
+ 70
+10
+  0
+3DFACE
+  5
+C0
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+215.333333333
+ 11
+433
+ 21
+200
+ 31
+233.333333333
+ 12
+433
+ 22
+682
+ 32
+233.333333333
+ 13
+433
+ 23
+682
+ 33
+215.333333333
+ 70
+0
+  0
+3DFACE
+  5
+C1
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+682
+ 30
+215.333333333
+ 11
+433
+ 21
+682
+ 31
+233.333333333
+ 12
+33
+ 22
+682
+ 32
+233.333333333
+ 13
+33
+ 23
+682
+ 33
+215.333333333
+ 70
+0
+  0
+3DFACE
+  5
+C2
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+682
+ 30
+215.333333333
+ 11
+33
+ 21
+682
+ 31
+233.333333333
+ 12
+33
+ 22
+15
+ 32
+233.333333333
+ 13
+33
+ 23
+15
+ 33
+215.333333333
+ 70
+0
+  0
+3DFACE
+  5
+C3
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+15
+ 30
+215.333333333
+ 11
+33
+ 21
+15
+ 31
+233.333333333
+ 12
+248
+ 22
+15
+ 32
+233.333333333
+ 13
+248
+ 23
+15
+ 33
+215.333333333
+ 70
+0
+  0
+3DFACE
+  5
+C4
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+233.333333333
+ 11
+248
+ 21
+15
+ 31
+233.333333333
+ 12
+248
+ 22
+15
+ 32
+215.333333333
+ 13
+433
+ 23
+200
+ 33
+215.333333333
+ 70
+0
+  0
+ENDBLK
+  5
+C5
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+C6
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [5]
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [5]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+C7
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Fixed Shelve [5]1
+ 10
+248
+ 20
+15
+ 30
+448.666666667
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+C8
+100
+AcDbEntity
+  8
+Desktop.Fixed Shelve [5]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+C9
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Fixed Shelve [5]1
+ 70
+     0
+ 10
+248
+ 20
+15
+ 30
+448.666666667
+  0
+3DFACE
+  5
+CA
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+248
+ 20
+15
+ 30
+448.666666667
+ 11
+433
+ 21
+682
+ 31
+448.666666667
+ 12
+433
+ 22
+200
+ 32
+448.666666667
+ 13
+248
+ 23
+15
+ 33
+448.666666667
+ 70
+9
+  0
+3DFACE
+  5
+CB
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+15
+ 30
+448.666666667
+ 11
+433
+ 21
+682
+ 31
+448.666666667
+ 12
+248
+ 22
+15
+ 32
+448.666666667
+ 13
+33
+ 23
+15
+ 33
+448.666666667
+ 70
+11
+  0
+3DFACE
+  5
+CC
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+682
+ 30
+448.666666667
+ 11
+433
+ 21
+682
+ 31
+448.666666667
+ 12
+33
+ 22
+15
+ 32
+448.666666667
+ 13
+33
+ 23
+682
+ 33
+448.666666667
+ 70
+10
+  0
+3DFACE
+  5
+CD
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+248
+ 20
+15
+ 30
+466.666666667
+ 11
+33
+ 21
+682
+ 31
+466.666666667
+ 12
+33
+ 22
+15
+ 32
+466.666666667
+ 13
+248
+ 23
+15
+ 33
+466.666666667
+ 70
+9
+  0
+3DFACE
+  5
+CE
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+466.666666667
+ 11
+33
+ 21
+682
+ 31
+466.666666667
+ 12
+248
+ 22
+15
+ 32
+466.666666667
+ 13
+433
+ 23
+200
+ 33
+466.666666667
+ 70
+11
+  0
+3DFACE
+  5
+CF
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+682
+ 30
+466.666666667
+ 11
+33
+ 21
+682
+ 31
+466.666666667
+ 12
+433
+ 22
+200
+ 32
+466.666666667
+ 13
+433
+ 23
+682
+ 33
+466.666666667
+ 70
+10
+  0
+3DFACE
+  5
+D0
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+448.666666667
+ 11
+433
+ 21
+200
+ 31
+466.666666667
+ 12
+433
+ 22
+682
+ 32
+466.666666667
+ 13
+433
+ 23
+682
+ 33
+448.666666667
+ 70
+0
+  0
+3DFACE
+  5
+D1
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+682
+ 30
+448.666666667
+ 11
+433
+ 21
+682
+ 31
+466.666666667
+ 12
+33
+ 22
+682
+ 32
+466.666666667
+ 13
+33
+ 23
+682
+ 33
+448.666666667
+ 70
+0
+  0
+3DFACE
+  5
+D2
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+682
+ 30
+448.666666667
+ 11
+33
+ 21
+682
+ 31
+466.666666667
+ 12
+33
+ 22
+15
+ 32
+466.666666667
+ 13
+33
+ 23
+15
+ 33
+448.666666667
+ 70
+0
+  0
+3DFACE
+  5
+D3
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+33
+ 20
+15
+ 30
+448.666666667
+ 11
+33
+ 21
+15
+ 31
+466.666666667
+ 12
+248
+ 22
+15
+ 32
+466.666666667
+ 13
+248
+ 23
+15
+ 33
+448.666666667
+ 70
+0
+  0
+3DFACE
+  5
+D4
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+433
+ 20
+200
+ 30
+466.666666667
+ 11
+248
+ 21
+15
+ 31
+466.666666667
+ 12
+248
+ 22
+15
+ 32
+448.666666667
+ 13
+433
+ 23
+200
+ 33
+448.666666667
+ 70
+0
+  0
+ENDBLK
+  5
+D5
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+D6
+100
+AcDbEntity
+  8
+Desktop.Mobile Shelve [1]
+100
+AcDbBlockBegin
+  2
+Desktop.Mobile Shelve [1]
+ 70
+     0
+ 10
+0
+ 20
+0
+ 30
+0
+  0
+INSERT
+  5
+D7
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockReference
+  2
+Desktop.Mobile Shelve [1]1
+ 10
+451
+ 20
+15
+ 30
+549
+210
+0
+220
+0
+230
+1
+  0
+ENDBLK
+  5
+D8
+100
+AcDbEntity
+  8
+Desktop.Mobile Shelve [1]
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+D9
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockBegin
+  2
+Desktop.Mobile Shelve [1]1
+ 70
+     0
+ 10
+451
+ 20
+15
+ 30
+549
+  0
+3DFACE
+  5
+DA
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+15
+ 30
+549
+ 11
+1549
+ 21
+15
+ 31
+549
+ 12
+1549
+ 22
+347
+ 32
+549
+ 13
+451
+ 23
+347
+ 33
+549
+ 70
+0
+  0
+3DFACE
+  5
+DB
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+15
+ 30
+567
+ 11
+1549
+ 21
+15
+ 31
+567
+ 12
+1549
+ 22
+347
+ 32
+567
+ 13
+451
+ 23
+347
+ 33
+567
+ 70
+0
+  0
+3DFACE
+  5
+DC
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+15
+ 30
+549
+ 11
+451
+ 21
+15
+ 31
+567
+ 12
+1549
+ 22
+15
+ 32
+567
+ 13
+1549
+ 23
+15
+ 33
+549
+ 70
+0
+  0
+3DFACE
+  5
+DD
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+15
+ 30
+549
+ 11
+1549
+ 21
+15
+ 31
+567
+ 12
+1549
+ 22
+347
+ 32
+567
+ 13
+1549
+ 23
+347
+ 33
+549
+ 70
+0
+  0
+3DFACE
+  5
+DE
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+1549
+ 20
+347
+ 30
+549
+ 11
+1549
+ 21
+347
+ 31
+567
+ 12
+451
+ 22
+347
+ 32
+567
+ 13
+451
+ 23
+347
+ 33
+549
+ 70
+0
+  0
+3DFACE
+  5
+DF
+100
+AcDbEntity
+  8
+Melamina Imperial
+ 62
+0
+100
+AcDbFace
+ 10
+451
+ 20
+347
+ 30
+549
+ 11
+451
+ 21
+347
+ 31
+567
+ 12
+451
+ 22
+15
+ 32
+567
+ 13
+451
+ 23
+15
+ 33
+549
+ 70
+0
+  0
+ENDBLK
+  5
+E0
+100
+AcDbEntity
+  8
+Melamina Imperial
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  5
+E1
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockReference
+  2
+Desktop
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+E2
+100
+AcDbDictionary
+  3
+ACAD_GROUP
+350
+E3
+  3
+ACAD_MLINESTYLE
+350
+E4
+  0
+DICTIONARY
+  5
+E3
+100
+AcDbDictionary
+  0
+DICTIONARY
+  5
+E4
+100
+AcDbDictionary
+  0
+ENDSEC
+  0
+EOF
